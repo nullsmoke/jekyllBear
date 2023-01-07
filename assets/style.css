@@ -148,8 +148,8 @@ code {
 .highlight,
 .code {
     padding: 1px 15px;
-    background-color: #f2f2f2;
-    color: #222;
+    background-color: ##3B4252;
+    color: ##8FBCBB;
     border-radius: 3px;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -158,7 +158,7 @@ code {
 
 blockquote {
     border-left: 1px solid #999;
-    color: #222;
+    color: #8fbcbb;
     padding-left: 20px;
     font-style: italic;
 }
