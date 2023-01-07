@@ -35,7 +35,7 @@ b {
     color: #88c0d0;
 }
 
-a {
+a, a:visited {
     color: #81a1c1;
     cursor: pointer;
     text-decoration: underline;
