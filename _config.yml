@@ -1,8 +1,8 @@
 ###########
 # site.title
 
-title: jekyllBear
-description: a minimal, text focused blog theme
+title: nullSmoke
+description: a journey into cybersecurity
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://nullsmoke.github.io/jekyllBear" # the base hostname & protocol for your site
 # host: 0.0.0.0
@@ -46,7 +46,7 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: America/Phoenix
 future: false
 
 exclude:
@@ -58,10 +58,10 @@ exclude: [vendor]
 Blog: /blog
 
 # Add general links to site pages here
-links:
-  Resume: /assets/resume.pdf
+#links:
+#  Resume: /assets/resume.pdf
   
 
 # Add links for more focus here
-special_links:
-  "Search": https://duckduckgo.com
+#special_links:
+#  "Search": https://duckduckgo.com
